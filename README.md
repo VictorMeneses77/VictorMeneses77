@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Meneses</h1>
 <h3 align="center">A passionate frontend developer from Robotics and Digital Systems</h3>
 
-- 🔭 I’m currently working on **Puzzelbot**
+- 🔭 I’m currently working on **Puzzlebot**
 
 - 👯 I’m looking to collaborate on **AIST Teleoperation system**
 
